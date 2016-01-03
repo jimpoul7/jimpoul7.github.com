@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Hello World!
+title : My blog
 tagline: Site Tagline
 author :
   name : Dimitrios Poulopoulos
