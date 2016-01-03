@@ -90,7 +90,7 @@ JB :
       appid : 123
       num_posts: 5
       width: 580
-      colorscheme: light
+      colorscheme: dark
     duoshuo :
       short_name : jekyllbootstrap
    
